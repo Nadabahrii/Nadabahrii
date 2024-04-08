@@ -1,14 +1,14 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nada BAHRI</h1>
-<h3 align="center">a passionate full stack developer from Tunisia</h3>
+<h3 align="center">a passionate  IT engineer from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadabahrii&label=Profile%20views&color=0e75b6&style=flat" alt="nadabahrii" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Deep learning**
 
-- 💬 Ask me about **Springboot , Angular ,**
+- 💬 Ask me about **machine learning ,data science, DevOps ,**
 
-- 📫 How to reach me **nada.bahri@esprit.tn**
+- 📫 How to reach me **bahrinadaa1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
